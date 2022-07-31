@@ -1,0 +1,26 @@
+u_site_id,(All)
+,
+Row Labels,Count of reason codes
+AD,2
+Bitlocker,14
+Concur,1
+Drives,8
+Hardware,20
+Intranet,4
+Mobile,6
+Network,3
+O365,5
+Outlook,4
+Password,9
+Phone,1
+Printer,2
+SalesForce,3
+SAP,15
+Sharepoint,2
+Software,23
+TAS,1
+Teams,5
+VPN,5
+Xtel,5
+(blank),
+Grand Total,138

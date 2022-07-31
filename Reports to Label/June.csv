@@ -1,0 +1,414 @@
+u_site_id,number,u_first_name,u_last_name,short_description,opened_at,active,additional_assignee_list,approval,approval_set,approval_history,assignment_group.parent,business_duration,location,severity
+undefined,INC0260930,Oana,Bogdan,[TAS] [UK] [RTL] [RG] Want to regularize some deals today in order to be captured in March and final settlements need to be calculated,01/04/2022 01:19,FALSE,,Not Yet Requested,,,Accenture AMS,474,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0260979,Elaine,Garrett,"xtel, issues unable to locate tool bat to change from one role to another",01/04/2022 10:49,FALSE,,Not Yet Requested,,,3PV,57600,R&D / opc center,3 - Low
+GBBA01,INC0260980,Lauren,Hansen,Bit locker,01/04/2022 10:56,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0260988,Sukhman,Sangha,User unable to connect to S Drive (Teamshare),01/04/2022 12:02,FALSE,,Not Yet Requested,,,Accenture EUS,1304,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0261016,Dionne,Taylor,Bitlocker - Recovey Key - Unable to login,01/04/2022 14:21,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0261039,Tom,Hill,Junk Folder rules,01/04/2022 15:47,FALSE,,Not Yet Requested,,,Accenture EUS,68116,R&D / opc center,3 - Low
+GBBA01,INC0261044,Jaymee,Geddis,Some Purchase Orders cannot be goods receipted (MIGO) due to error message - GL account does not exist,01/04/2022 16:02,FALSE,,Not Yet Requested,,,Accenture AMS,57600,R&D / opc center,3 - Low
+GBBA01,INC0261049,Keith,Collie,Adobe Acrobat License,01/04/2022 16:25,FALSE,,Not Yet Requested,,,Accenture EUS L2,518400,R&D / opc center,3 - Low
+GBHU01,INC0261169,Damien,Rochford,"Pricing Rounding errors for Trade term pricing Z405, Z406, Z420 & Z425",04/04/2022 11:10,FALSE,,Not Yet Requested,,,Accenture EUS,518400,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0261196,Dave,Hale,"Follow up on ticket RITM0341583, I would like to copy / clone SharePoint site as a template to use for additional sites for the same team. Copy MS Teams originally requested did not work.",04/04/2022 12:46,FALSE,,Not Yet Requested,,,Accenture AMS,172800,R&D / opc center,3 - Low
+DEBR01,INC0261217,Stefan,von Weyhe,User reported cannot send files from onedrive to external sources ,04/04/2022 13:58,FALSE,,Not Yet Requested,,,Accenture EUS L2,28800,R&D / opc center,3 - Low
+GBBA01,INC0261271,David,English,Stock stuck in SAP L150 - R3P - MD04,04/04/2022 17:59,FALSE,,Not Yet Requested,,,Accenture AMS,835200,R&D / opc center,3 - Low
+undefined,INC0261326,Jamie,Dundala,[Intranet][GB] D2P sharepoint access,05/04/2022 08:05,FALSE,,Not Yet Requested,,,Accenture AMS,1887,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0261343,Kevin,Heeley,XTEL screen is zoomed in and i dont know how to zoom out. Control and scroll isnt working.,05/04/2022 09:29,FALSE,,Not Yet Requested,,,3PV,432000,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0261354,Amber,McGuigan,XTEL system not working,05/04/2022 10:03,FALSE,,Not Yet Requested,,,3PV,86400,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0261371,Steve,Plumbe,Issues with CTC_Guest Wi-Fi,05/04/2022 10:45,FALSE,,Not Yet Requested,,,OBS,57600,R&D / opc center,3 - Low
+GBHU01,INC0261393,Edward,Hunter,XTEL - Not visible on screen - Like its zoomed in,05/04/2022 12:11,FALSE,,Not Yet Requested,,,3PV,28800,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0261429,Martin,Aris,Unable to make calls in MS Teams,05/04/2022 15:13,FALSE,,Not Yet Requested,,,Accenture EUS,63201,R&D / opc center,3 - Low
+GBHU01,INC0261438,Oana,Bogdan,[TAS] [UK] [RTL] [AC] Accrual not transferred to SAP after regularization. Potentially linked to L-plant. PLease assign to TAS team.,05/04/2022 15:59,FALSE,,Not Yet Requested,,,Accenture AMS,115200,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0261461,Holly,Harnwell,user is facing issue with xtel application zooming issue ,05/04/2022 16:57,FALSE,,Not Yet Requested,,,3PV,893,Maidenhead Cluster HQ,3 - Low
+IEDU01,INC0261480,MaryRuth,Murphy,[OBWDA] [D&A-BPC-BPC-XXX-UA]user informed  she is facing issue opening the schedules in BPC.,05/04/2022 20:15,FALSE,,Not Yet Requested,,,Just-Bi ,107095,Dublin  Country Office,3 - Low
+GBBA01,INC0261483,Rebbecca,Page,XTEL screen is zoomed in,05/04/2022 20:29,FALSE,,Not Yet Requested,,,Accenture EUS,106221,R&D / opc center,3 - Low
+IEDU01,INC0261533,Sorcha,Meagher,My Xtel Programme is not working on my computer,06/04/2022 10:09,FALSE,,Not Yet Requested,,,Accenture EUS,117398,Dublin  Country Office,3 - Low
+GBHU01,INC0261554,Nazia,Hussain,unable to process an order in sap - cannot allocate lines,06/04/2022 11:14,FALSE,,Not Yet Requested,,,Accenture AMS,144000,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0261588,Yoan,Daskalov,Sales Force  Problem,06/04/2022 13:23,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0261600,Nicola,Fifield,"Access now denied on the below file, was working a few months ago",06/04/2022 14:27,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0261606,Blythe,Fourie,Remove the current multi-factor authentication configuration for my account.,06/04/2022 14:43,FALSE,,Not Yet Requested,,,Accenture EUS L2,0,R&D / opc center,3 - Low
+GBBA01,INC0261676,Helen,Callow,Subject: User Submission: Phish Mail 4/6/2022 7:31:48 AM,07/04/2022 01:58,FALSE,,Not Yet Requested,,,Accenture EUS L2,91,R&D / opc center,3 - Low
+GBBA01,INC0261718,Baswatimayee,Sahn,PXE troubleshooting,07/04/2022 09:58,FALSE,,Not Yet Requested,,,OBS,103491,R&D / opc center,3 - Low
+GBHU01,INC0261725,Donna,Pink,Unable to Logon,07/04/2022 10:22,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0261766,Steve,Plumbe,Unplanned Short Network Outage Experienced - Banbury UK (Site GBBA01),07/04/2022 14:14,FALSE,,Not Yet Requested,,,OBS,0,R&D / opc center,3 - Low
+GBBA01,INC0261772,John,Mayor,Active Directory – Password Reset/Account Unlock,07/04/2022 15:00,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+NLUT01,INC0261798,Vaishnavi,Khardekar,Unplanned Short Network Outage Experienced - Banbury UK (Site GBBA01),07/04/2022 16:52,FALSE,,Not Yet Requested,,,OBS,403200,R&D / opc center,3 - Low
+GBBA01,INC0261811,Andrew,McIvor,Bit locker,07/04/2022 17:45,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0261825,Keith,Collie,User unable to access adobe reader,07/04/2022 19:17,FALSE,,Not Yet Requested,,,Accenture EUS,27539,R&D / opc center,3 - Low
+GBBA01,INC0261842,Steve,Plumbe,Subject: Assign a new P3 ticket to OBS,07/04/2022 23:30,FALSE,,Not Yet Requested,,,OBS,4662,R&D / opc center,3 - Low
+GBBA01,INC0261935,Tantoh,Shieh,Incorrect Mobile Number in MS Teams & Active Directory,08/04/2022 14:03,FALSE,,Not Yet Requested,,,Accenture EUS L2,28800,R&D / opc center,3 - Low
+GBHU01,INC0261948,Amy,Turner,xtel - Need to remove cannibalisation & dip from Co-op account 162405,08/04/2022 15:18,FALSE,,Not Yet Requested,,,3PV,489600,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0261987,Sukhman,Sangha,User contacted regarding Sap analysis Add in issue ,08/04/2022 20:03,FALSE,,Not Yet Requested,,,Accenture EUS,1638,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0262005,Gosia,Tanikowska,Subject: User Submission: Junk Mail 4/8/2022 2:11:30 PM,09/04/2022 07:11,FALSE,,Not Yet Requested,,,Accenture EUS L2,0,R&D / opc center,3 - Low
+GBBA01,INC0262026,Sam,Robinson,Bitlocker - Recovey Key - Unable to login,10/04/2022 22:13,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+undefined,INC0262055,Jason Brett,King,YIBCHU IDocs - Banbury,11/04/2022 08:43,FALSE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+GBHU01,INC0262088,Nadiya,Soshenko,Sales Force Integration Log IL-0028050250 in Order O-06440776,11/04/2022 10:24,FALSE,,Not Yet Requested,,,Accenture AMS,57600,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0262114,Oana,Bogdan,Unable to access shared drives ,11/04/2022 11:29,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0262122,Nadiya,Soshenko,Pricing in  Agreement 00340349.46 for (4028630) L OR RISTRETTO CAPS.,11/04/2022 11:59,FALSE,,Not Yet Requested,,,Accenture AMS,57600,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0262126,George,Tuck,Sales Force Single Sign-On Issue,11/04/2022 12:12,FALSE,,Not Yet Requested,,,Accenture EUS,35186,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0262129,Lauren,Newman,Headphone port not working.,11/04/2022 12:38,FALSE,,Not Yet Requested,,,Global Service Desk,172800,R&D / opc center,3 - Low
+GBBA01,INC0262130,Weronika,Romowska,idoc 943526000,11/04/2022 12:44,FALSE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+GBBA01,INC0262179,Emily,Schult,User unable to add a printer ,11/04/2022 17:08,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+undefined,INC0262226,Weronika,Romowska,YIBCHU IDocs - Banbury,12/04/2022 09:16,FALSE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+GBHU01,INC0262247,Nadiya,Soshenko,Have no sound,12/04/2022 11:14,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0262272,Jenni,Nicholson,Power BI download / installation not available,12/04/2022 12:38,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0262289,Nazmul,Miah,[TAS] [UK] [PRO] [AC] TAS Accrual not working for SO (Company) 6750 pro UK,12/04/2022 14:04,FALSE,,Not Yet Requested,,,Accenture AMS,86400,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0262327,Matthew,Starnes,PXE Troubleshooting Ticket - Banbury,12/04/2022 16:04,FALSE,,Not Yet Requested,,,Accenture EUS,921600,R&D / opc center,3 - Low
+GBHU01,INC0262337,Nadiya,Soshenko,User informed that there is no sound in system ,12/04/2022 16:32,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0262409,Tom,Broe,"HDMI port not working, unable to connect to external screen",13/04/2022 10:37,FALSE,,Not Yet Requested,,,Accenture EUS,28800,R&D / opc center,3 - Low
+GBBA01,INC0262418,Jenni,Nicholson,Unable to access BW through analysis for excel,13/04/2022 11:18,FALSE,,Not Yet Requested,,,Accenture EUS,115200,R&D / opc center,3 - Low
+GBBA01,INC0262438,John,Mayor,Cannot deactivate positions in SuccessFactors even having deleted the matrix positions attached,13/04/2022 15:01,FALSE,,Not Yet Requested,,,Accenture AMS,86400,R&D / opc center,3 - Low
+GBBA01,INC0262441,Steve,Plumbe,This is a test ticket - My laptop is crashing intermittantly,13/04/2022 15:06,FALSE,,Not Yet Requested,,,Accenture EUS,5841,R&D / opc center,3 - Low
+GBBA01,INC0262442,John,Mayor,SuccessFactors feed to Smart Recruiters,13/04/2022 15:08,FALSE,,Not Yet Requested,,,Accenture AMS,172800,R&D / opc center,3 - Low
+GBHU01,INC0262488,Cigdem,Lettieri," O Drive (shared folder) missing , by mistake deleted",13/04/2022 21:20,FALSE,,Not Yet Requested,,,Accenture EUS,131982,Maidenhead Cluster HQ,3 - Low
+NLUT01,INC0262522,Baswatimayee,Sahn,New Ticket: Network Team,14/04/2022 09:00,FALSE,,Not Yet Requested,,,OBS,201600,R&D / opc center,3 - Low
+GBBA01,INC0262533,John,Mayor,Cannot Find Position Entry Date in SuccessFactors Reporting Suite,14/04/2022 10:15,FALSE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+GBBA01,INC0262547,Chris,Higgins,Key of the Keyboard is Broken,14/04/2022 11:13,FALSE,,Not Yet Requested,,,Global Service Desk,86400,R&D / opc center,3 - Low
+GBBA01,INC0262549,John,Mayor,Outsourced Contractor - Not Reinstated,14/04/2022 11:22,FALSE,,Not Yet Requested,,,Global Service Desk,151513,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0262592,Matthew,Starnes,Touchpad on the X360 Laptop is stuck,14/04/2022 15:20,FALSE,,Not Yet Requested,,,Global Service Desk,0,R&D / opc center,3 - Low
+GBHU01,INC0262690,Vincent,New,Bitlocker - Recovey Key - Unable to login,15/04/2022 11:33,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0262746,Balginder,Mann,Active Directory – Password Reset/Account Unlock,16/04/2022 11:45,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0262980,Matthew,Starnes,bitlocker recovery key,19/04/2022 11:57,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0262998,Danny,Baughan,Bitlocker recovery,19/04/2022 12:18,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0263018,Ila,Nascimento,User informed external monitor is not working and it's completely blank ,19/04/2022 13:40,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0263139,Alastair,Murphy,AutoCAD Autodesk Not Starting (BC-Meridian Issue),20/04/2022 10:03,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0263148,Sarah,Meagher,ACCOLADE is not connecting this is impacting over 400 users at Home and in the office - this is a 24/7  system.,20/04/2022 10:53,FALSE,,Not Yet Requested,,,ATOS,144000,R&D / opc center,3 - Low
+GBBA01,INC0263220,Patrick,Sheils,Active Directory – Password Reset/Account Unlock,20/04/2022 14:20,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0263228,Aaron,Kumar,Urgent PO 5500027227 requires release today to avoid late penalty fees from media agency (Havas). Approval has been gained to skip R3 approval and set up via FF user and incident to AMS PTP.,20/04/2022 14:58,FALSE,,Not Yet Requested,,,Accenture AMS,28800,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0263267,Eleanor,Reynolds,Xtel view,20/04/2022 18:05,FALSE,,Not Yet Requested,,,3PV,28475,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0263271,Rohini,Parekh,Bitlocker - Recovey Key - Unable to login,20/04/2022 18:39,FALSE,,Not Yet Requested,,,Accenture EUS,193,Maidenhead Cluster HQ,3 - Low
+IEDU01,INC0263277,Kristina,Candon,Error in Excel file ,20/04/2022 19:44,FALSE,,Not Yet Requested,,,Accenture EUS,195357,Dublin  Country Office,3 - Low
+GBBA01,INC0263282,Patrick,Sheils,Bitlocker key needed- 4eeac244,20/04/2022 20:53,FALSE,,Not Yet Requested,,,Accenture EUS,446,R&D / opc center,3 - Low
+GBBA01,INC0263352,Richard,Walker,keep disconnecting from drives,21/04/2022 12:32,FALSE,,Not Yet Requested,,,Accenture EUS,1758,R&D / opc center,3 - Low
+GBHU01,INC0263357,Sophia,Fergusson,Active Directory – Password Reset/Account Unlock,21/04/2022 12:54,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0263389,Nadiya,Soshenko,Sales Force Agreement 00420770.4 and 00420770.5 BELAIR - AMBIENT & FROZEN,21/04/2022 16:13,FALSE,,Not Yet Requested,,,Accenture EUS,31356,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0263423,Liam,Allen,Active Directory – Password Reset/Account Unlock,21/04/2022 18:28,FALSE,,Not Yet Requested,,,Accenture EUS,336,R&D / opc center,3 - Low
+GBBA01,INC0263455,Richard,Walker,network shared drive still not mapped correctly and have no accsess even after IT input yesterday,22/04/2022 07:28,FALSE,,Not Yet Requested,,,Accenture EUS,18836,R&D / opc center,3 - Low
+GBHU01,INC0263472,Roma,Longster,External agency is no longer able to access our Agency File Share SharePoint despite being given access.,22/04/2022 10:24,FALSE,,Not Yet Requested,,,Accenture AMS,28800,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0263508,Jason,Hopkins,Telephone not working,22/04/2022 12:54,FALSE,,Not Yet Requested,,,Accenture EUS,34147,R&D / opc center,3 - Low
+GBHU01,INC0263527,Kamran,Ahmed,Recover Files,22/04/2022 15:01,FALSE,,Not Yet Requested,,,Accenture EUS L2,115200,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0263581,Roberto,De Felice,"I have saved contacts on my outlook o n my laptop, but they dont appear or sync to my mobile phone so i can call the contacts",23/04/2022 16:27,FALSE,,Not Yet Requested,,,Accenture EUS,28800,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0263585,Adam,Mee,Bitlocker - Recovey Key - Unable to login,23/04/2022 17:14,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0263602,Balginder,Mann,Active Directory – Password Reset/Account Unlock,24/04/2022 22:45,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0263701,Stephen,Kirkby,Unable to access Nielsen databases.  Issue is affecting a large number of users (I'm raising ticket on behalf of 20+ users),25/04/2022 16:08,FALSE,,Not Yet Requested,,,Accenture EUS L2,28800,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0263709,Sukhman,Sangha,TAS addon ABDO 2.6,25/04/2022 16:48,FALSE,,Not Yet Requested,,,Accenture EUS,28800,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0263727,Gosia,Tanikowska,SAP GUI 7.7 new version PB view issues,25/04/2022 19:17,FALSE,,Not Yet Requested,,,Accenture AMS,254561,R&D / opc center,3 - Low
+GBBA01,INC0263733,Danielle,Halkett,Active Directory – Password Reset/Account Unlock,25/04/2022 20:38,FALSE,,Not Yet Requested,,,Accenture EUS,448,R&D / opc center,3 - Low
+GBBA01,INC0263765,Andrew,McIvor,User wanted to inform about SAP issue for Banbury Site,26/04/2022 01:11,FALSE,,Not Yet Requested,,,OBS,31707,R&D / opc center,3 - Low
+GBBA01,INC0263862,Adam,Mee,users cant access VPN,26/04/2022 10:07,FALSE,,Not Yet Requested,,,OBS,28800,R&D / opc center,3 - Low
+GBBA01,INC0263864,Matthew,Starnes,Some of the letters on the keyboard have worn away and are not visible.,26/04/2022 10:15,FALSE,,Not Yet Requested,,,Global Service Desk,28800,R&D / opc center,3 - Low
+GBBA01,INC0263903,Gavyn,Palmer,Bitlocker - Recovey Key - Unable to login,26/04/2022 12:38,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0263992,Oana,Bogdan,Unable to access TAS ,26/04/2022 17:52,FALSE,,Not Yet Requested,,,Accenture EUS,438,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0263996,Steve,Plumbe,Bitlocker - Recovey Key - Unable to login,26/04/2022 18:03,FALSE,,Not Yet Requested,,,Accenture EUS,3344,R&D / opc center,3 - Low
+GBBA01,INC0264090,Adam,Argyle,Very high laptop memory usage,27/04/2022 10:46,FALSE,,Not Yet Requested,,,Accenture EUS L2,633600,R&D / opc center,3 - Low
+GBHU01,INC0264100,Maureen,Cronin,Request to upload a document to www.jacobsdouweegberts.com/about-us/united-kingdom,27/04/2022 11:54,FALSE,,Not Yet Requested,,,Accenture AMS,28800,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0264128,Josephine,Knight,Unable to GI STO 2441443422,27/04/2022 14:17,FALSE,,Not Yet Requested,,,Accenture AMS,57600,R&D / opc center,3 - Low
+GBBA01,INC0264138,Elaine,Garrett,"lost adobe dc32bit (standard)	 adobe acrobat6 standard",27/04/2022 15:05,FALSE,,Not Yet Requested,,,Accenture EUS,144000,R&D / opc center,3 - Low
+GBHU01,INC0264162,Jamie,Dundala,Unable to access N Drive ,27/04/2022 16:45,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0264175,Steve,Plumbe,Toner Threshold For Automatically Ordering Replacement Toners for Printer S/N CNC1N34009,27/04/2022 17:39,TRUE,,Not Yet Requested,,,HPI,0,R&D / opc center,3 - Low
+GBHU01,INC0264242,Oana,Bogdan,"[TAS] [UK] [RTL] [RG] Cannot regularize deal 32040101 in TAS, error message ""final settlement not approved"" even though it is approved. Please assign to TAS team.",28/04/2022 11:13,FALSE,,Not Yet Requested,,,Accenture AMS,28800,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0264245,Lisa,Woodington,Black lines on printouts. Printer R&D 1st Floor IP address 10.7.76.27,28/04/2022 11:21,TRUE,,Not Yet Requested,,,HPI,550175,R&D / opc center,3 - Low
+GBBA01,INC0264248,Caroline Jane,Milicia,Meeting room outlook calendar issues,28/04/2022 11:45,FALSE,,Not Yet Requested,,,Accenture EUS,18415,R&D / opc center,3 - Low
+GBHU01,INC0264253,Carlotta,Rees,When logging on there is a continuous black screen see in attachments which looses all my work & the computer takes ages to log on,28/04/2022 12:13,FALSE,,Not Yet Requested,,,Global Service Desk,489600,Maidenhead Cluster HQ,3 - Low
+,INC0264318,Steve,Plumbe,AP disassociated frequently. ,28/04/2022 17:50,FALSE,,Not Yet Requested,,,OBS,111984,R&D / opc center,3 - Low
+GBBA01,INC0264396,Kate,Buckingham,"sap 3rp - Unable to use various reporting transactions, cant view /edit sales orders. VA02 FOR EXAMPLE",29/04/2022 10:01,FALSE,,Not Yet Requested,,,Accenture AMS,144000,R&D / opc center,3 - Low
+GBBA01,INC0264398,Louise,Shawyer,"Cannot access any orders in SAP, when I try to view on I get the message 'lock table overflow'.  I need to get access asap to manage and outbound orders",29/04/2022 10:02,FALSE,,Not Yet Requested,,,Accenture AMS,144000,R&D / opc center,3 - Low
+undefined,INC0264402,Jason Brett,King,YIBCHU IDocs Banbury,29/04/2022 10:10,FALSE,,Not Yet Requested,,,Accenture AMS,144000,R&D / opc center,3 - Low
+GBBA01,INC0264405,Jason Brett,King,YIBCHU IDOCS,29/04/2022 10:17,FALSE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+GBBA01,INC0264437,Steve,Plumbe,Bitlocker Recovery Key - BB49A67A,29/04/2022 12:54,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0264440,Steve,Plumbe,Password Reset of generic account rdlogistics.Banbury,29/04/2022 13:01,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0264480,Oana,Bogdan,"Deals from Q1 2022 still in ""Customer accepted"" status, what is the cause of that? Please assign to Kantar.",29/04/2022 17:10,FALSE,,Not Yet Requested,,,3PV,57600,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0264511,Wesley,Furey,Unable to connect to N drive,30/04/2022 02:06,FALSE,,Not Yet Requested,,,Accenture EUS L2,28800,R&D / opc center,3 - Low
+GBBA01,INC0264513,Andrew,McIvor,Users are unable to access N internal network drive,30/04/2022 07:27,FALSE,,Not Yet Requested,,,Accenture EUS L2,0,R&D / opc center,3 - Low
+GBBA01,INC0264527,Barry,Bryant,SAP I CANNOT CONFIRM ORDER ON LT12,01/05/2022 11:08,FALSE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+GBBA01,INC0264528,Blythe,Fourie,Laptop has been stolen from utrecht.,01/05/2022 15:22,FALSE,,Not Yet Requested,,,Accenture EUS L2,0,R&D / opc center,3 - Low
+undefined,INC0264643,Adam,Bradford Timlin,[Intranet][GB} User encountered problem in SSSC,02/05/2022 14:34,FALSE,,Not Yet Requested,,,Accenture AMS,664,R&D / opc center,3 - Low
+GBBA01,INC0264753,Daniel,Welling,SAP Access,03/05/2022 08:12,FALSE,,Not Yet Requested,,,Accenture EUS,28800,R&D / opc center,3 - Low
+GBHU01,INC0264766,Oana,Bogdan,[RTL] KE 30 report not working in SAP. I am using report Z0090004COGS - COGS Split P&L Megaquery SKU.,03/05/2022 10:00,FALSE,,Not Yet Requested,,,Accenture AMS,86400,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0264771,Andrew,Markham,"The pad on my laptop is not working, I can still move the curser around but I cannot use the left or right click function.",03/05/2022 10:51,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0264794,Claire,Goodship,Zarpac server access issues & data lag,03/05/2022 12:30,FALSE,,Not Yet Requested,,,Accenture EUS L2,30183,R&D / opc center,3 - Low
+IEDU01,INC0264810,Nessa,OSullivan,Random Pop-Ups Appearing on Laptop,03/05/2022 14:19,FALSE,,Not Yet Requested,,,Global Service Desk,780737,Dublin  Country Office,3 - Low
+GBHU01,INC0264839,Eleanor,Reynolds,Bitlocker - Recovey Key - Unable to login,03/05/2022 15:51,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0264840,Steve,Plumbe,Please Link to Ticket - INC0264706 - Up to 100 UK CAP Phones All Logged Out,03/05/2022 15:54,FALSE,,Not Yet Requested,,,Accenture EUS,144000,R&D / opc center,3 - Low
+GBBA01,INC0264850,Matthew,Starnes,Laptop crashed during Bios update and now has corrupt Firmware,03/05/2022 16:32,FALSE,,Not Yet Requested,,,Global Service Desk,115200,R&D / opc center,3 - Low
+GBBA01,INC0264891,Jane,Huskisson,[OBWDA] [D&A-BW-AUTH-XXX-SH] User unable to access normal menu list and when she enters normal transaction ,03/05/2022 18:05,FALSE,,Not Yet Requested,,,Just-Bi ,114895,R&D / opc center,3 - Low
+GBBA01,INC0264905,Josephine,Knight,Security Team have found an issue with Kenco.co.uk website,03/05/2022 19:00,FALSE,,Not Yet Requested,,,Accenture EUS,319321,R&D / opc center,3 - Low
+GBBA01,INC0264921,Steve,Plumbe,Bitlocker - Recovey Key - Unable to login,03/05/2022 20:02,FALSE,,Not Yet Requested,,,Accenture EUS,411,R&D / opc center,3 - Low
+GBHU01,INC0264971,Fredrick,Chademunhu,There is issue on Xtel conditions as uploaded changes to conditions are not being applied to the P&L reporting. Please assign to Kantar Elisa Chiurazzi or Alessandro Zambonelli,04/05/2022 09:02,FALSE,,Not Yet Requested,,,3PV,86400,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0264996,Samantha,Gilbey,Desk phone not connecting,04/05/2022 11:36,FALSE,,Not Yet Requested,,,Accenture EUS L2,0,R&D / opc center,3 - Low
+GBBA01,INC0265042,Claire,Jones,Unable to login to SAP ,04/05/2022 15:07,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0265057,Nadiya,Soshenko,Case in Sales Force,04/05/2022 16:24,FALSE,,Not Yet Requested,,,Accenture AMS,28800,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0265066,Samantha,Gilbey,Desk phone not connecting,04/05/2022 16:56,FALSE,,Not Yet Requested,,,,259200,R&D / opc center,3 - Low
+GBHU01,INC0265087,Jeremy,Barker,user need to install drivers and also facing issue with microsoft phone headset ,04/05/2022 18:11,FALSE,,Not Yet Requested,,,Accenture EUS,217,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0265088,Odette,Oosthuizen,User informed analysis add-in not working ,04/05/2022 18:16,FALSE,,Not Yet Requested,,,Accenture EUS,357,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0265089,Jeremy,Barker, user is facing issue with headset ,04/05/2022 18:19,FALSE,,Not Yet Requested,,,Accenture EUS,188,Maidenhead Cluster HQ,3 - Low
+undefined,INC0265142,Samantha,Gilbey,YIBCHU IDocs in error status,05/05/2022 07:43,FALSE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+GBBA01,INC0265182,Barbara,Oleksy,SAP Upgrade 7.7 login error,05/05/2022 10:37,FALSE,,Not Yet Requested,,,Accenture EUS,28800,R&D / opc center,3 - Low
+GBBA01,INC0265225,Daniel,Singer,Not authorised to run MM02 transaction on SAP (R3P).,05/05/2022 12:39,FALSE,,Not Yet Requested,,,Accenture AMS,144000,R&D / opc center,3 - Low
+undefined,INC0265233,Oana,Bogdan,[TAS] [UK] [RTL] [AC] Accrual not transferred to SAP after regularization. Potentially linked to L-plant. PLease assign to TAS team.,05/05/2022 13:07,FALSE,,Not Yet Requested,,,Accenture AMS,0,Maidenhead Cluster HQ,3 - Low
+NLUT01,INC0265263,Baswatimayee,Sahn,PXE troubleshooting,05/05/2022 14:55,FALSE,,Not Yet Requested,,,OBS,57600,R&D / opc center,3 - Low
+GBHU01,INC0265283,Princess,Engeham,I don't have permission to save file on shared folder.,05/05/2022 16:26,FALSE,,Not Yet Requested,,,Accenture EUS,28800,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0265304,Odette,Oosthuizen,My SAP is not starting up,05/05/2022 17:30,FALSE,,Not Yet Requested,,,Accenture EUS,31901,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0265308,Chrissie,Haynes,Unable to login to SAP ,05/05/2022 17:36,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0265310,James,BradyJones, user is facing issue with wifi drivers,05/05/2022 17:45,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0265312,Alex,McEwan,Bitlocker key needed,05/05/2022 17:53,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0265321,Leeann,Harpley,Unable to access SAP ,05/05/2022 18:34,FALSE,,Not Yet Requested,,,Accenture EUS,698,R&D / opc center,3 - Low
+GBHU01,INC0265400,Nadiya,Soshenko,"Sales Force pricing, agreement 00066436.30",06/05/2022 11:20,FALSE,,Not Yet Requested,,,Accenture AMS,28800,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0265463,Craig,Alder,Recover deleted file,06/05/2022 15:04,FALSE,,Not Yet Requested,,,Accenture EUS L2,36655,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0265478,Ruby,Ramsamy,Need to change email address on Cornerstone,06/05/2022 16:41,FALSE,,Not Yet Requested,,,NSA,86400,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0265491,Sabrina,Laloui,PURCHASE ORDER ISSUE,06/05/2022 17:23,FALSE,,Not Yet Requested,,,Accenture AMS,57600,R&D / opc center,3 - Low
+GBBA01,INC0265514,Alex,McEwan,Bitlocker - PIN setup,06/05/2022 20:53,FALSE,,Not Yet Requested,,,Accenture EUS,887,R&D / opc center,3 - Low
+GBBA01,INC0265579,Sam,Robinson,Damaged roof caused coffee leak onto laptop,09/05/2022 09:29,FALSE,,Not Yet Requested,,,Global Service Desk,115200,R&D / opc center,3 - Low
+GBBA01,INC0265587,Max,Goodhew,Unable to Open SAP - Needs Uninstalling & Re-Installing,09/05/2022 10:23,FALSE,,Not Yet Requested,,,Accenture EUS,1989,R&D / opc center,3 - Low
+GBBA01,INC0265639,Jenni,Nicholson,SAP Gui error Issue,09/05/2022 14:42,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0265647,Jamie,Dundala,Unable to access N Drive ,09/05/2022 15:01,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0265648,Leanne,Pocock,Unable to log in to Maximo system,09/05/2022 15:04,FALSE,,Not Yet Requested,,,Accenture EUS,204117,R&D / opc center,3 - Low
+GBBA01,INC0265696,Barbara,Andrews,"User came on call as she had issues with SAP Gui , ",09/05/2022 18:22,FALSE,,Not Yet Requested,,,Accenture EUS,744,R&D / opc center,3 - Low
+GBBA01,INC0265708,Ruby,Ramsamy,"user need this  folder ""Employee Records Retail GB Ltd "" to be restored back to ",09/05/2022 19:37,FALSE,,Not Yet Requested,,,Accenture EUS L2,51746,R&D / opc center,3 - Low
+GBHU01,INC0265731,Simon,Bird,Unable to unlock JDE mobile,09/05/2022 22:33,FALSE,,Not Yet Requested,,,Accenture EUS,12408,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0265735,Kieran,Worrall,Bitlocker - Recovey Key - Unable to login,10/05/2022 00:39,FALSE,,Not Yet Requested,,,Accenture EUS,185,R&D / opc center,3 - Low
+GBBA01,INC0265736,Alan,Glover,Active Directory – Password Reset/Account Unlock,10/05/2022 00:43,FALSE,,Not Yet Requested,,,Accenture EUS,240,R&D / opc center,3 - Low
+GBHU01,INC0265784,Nadiya,Soshenko,In Conversion Order O-06547310 Service Fee was cancelled but it appears in Invoice 3036060982 from 26.04.2022,10/05/2022 10:54,FALSE,,Not Yet Requested,,,Accenture AMS,86400,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0265810,Kathryn,Turner,Application unable to connect to server,10/05/2022 12:58,FALSE,,Not Yet Requested,,,Accenture EUS,979200,R&D / opc center,3 - Low
+GBHU01,INC0265815,Holly,Harnwell,bitlocker key needed,10/05/2022 13:15,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0265859,Rohini,Parekh,On Xtel a promotion is still showing in flight,10/05/2022 14:51,FALSE,,Not Yet Requested,,,3PV,28800,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0265978,Jamie,McGowan,I need to change my role on SAP as i need the analysis funcation.,11/05/2022 09:28,FALSE,,Not Yet Requested,,,Accenture EUS,69062,R&D / opc center,3 - Low
+GBHU01,INC0266031,Anindo,Banerjee,Unable to access required shared drive (N:\Marketing\Marketing),11/05/2022 13:13,FALSE,,Not Yet Requested,,,Accenture EUS,3680,Maidenhead Cluster HQ,3 - Low
+NLUT01,INC0266110,Dylan,McGuinness,Access JDE Email,11/05/2022 16:52,FALSE,,Not Yet Requested,,,Accenture EUS,5299,R&D / opc center,3 - Low
+GBBA01,INC0266203,Samantha,Gilbey,Issue with RFGen,12/05/2022 11:20,FALSE,,Not Yet Requested,,,3PV,115200,R&D / opc center,3 - Low
+GBBA01,INC0266242,Andrew,Markham,I can't connect to a Hurley Printer PRNUKMAH014,12/05/2022 13:39,FALSE,,Not Yet Requested,,,Accenture EUS,259200,R&D / opc center,3 - Low
+GBBA01,INC0266352,Matthew,Starnes,Bitlocker - Recovey Key - Unable to login,12/05/2022 20:28,FALSE,,Not Yet Requested,,,Accenture EUS,183,R&D / opc center,3 - Low
+GBBA01,INC0266415,Mark,Devonish,Phones not working in Training Room Ext 3146 and Ext 3941,13/05/2022 11:24,FALSE,,Not Yet Requested,,,Accenture EUS,30585,R&D / opc center,3 - Low
+GBBA01,INC0266435,Chad,Mullin,Unable to GR a co-pack PO due to cost center,13/05/2022 14:07,FALSE,,Not Yet Requested,,,Accenture AMS,259200,R&D / opc center,3 - Low
+GBHU01,INC0266439,Nadiya,Soshenko,Sales Force Pricing for FSD for (4029710) L OR COFFEE MACHINE MINI CAPS 1PCX1 UK is not added to a DC7 child agreement.,13/05/2022 14:19,FALSE,,Not Yet Requested,,,Accenture AMS,345600,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0266444,Paul,Saxton,SharePoint Access  Issues for External Partners,13/05/2022 15:21,FALSE,,Not Yet Requested,,,Accenture AMS,86400,R&D / opc center,3 - Low
+GBBA01,INC0266455,Matthew,Starnes,Bitlocker - Recovey Key - Unable to login,13/05/2022 16:30,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0266503,Andrew,Wilson,Password reset for adam.brown@jdecoffee.com,15/05/2022 02:07,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0266549,Lauren,Hansen,Unable to open SAP,16/05/2022 09:57,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0266564,Andrew,Markham,Touchpad on Laptop is still not working.  Previous fix has not worked.,16/05/2022 10:55,FALSE,,Not Yet Requested,,,Global Service Desk,86400,R&D / opc center,3 - Low
+GBBA01,INC0266582,Naomi,French,software install required  has gone,16/05/2022 11:45,FALSE,,Not Yet Requested,,,Accenture EUS,90299,R&D / opc center,3 - Low
+GBBA01,INC0266694,Tobi,Akinyemi,Bitlocker - Recovey Key - Unable to login,16/05/2022 19:18,FALSE,,Not Yet Requested,,,Accenture EUS,407,R&D / opc center,3 - Low
+GBBA01,INC0266697,Petra,Phillips,unable to access teams application,16/05/2022 20:00,FALSE,,Not Yet Requested,,,Accenture EUS,1053,R&D / opc center,3 - Low
+GBHU01,INC0266735,Hannah,Morris,User informed unable to access Internet via mobile internet ,17/05/2022 04:25,FALSE,,Not Yet Requested,,,Global Service Desk,86400,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0266792,Adam,Mee,SAP analysis is missing for excel,17/05/2022 10:53,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0266812,Jenni,Nicholson,Cornerstone reminders being sent to wrong email address,17/05/2022 12:36,FALSE,,Not Yet Requested,,,NSA,57600,R&D / opc center,3 - Low
+GBBA01,INC0266836,Greig,Brown,I need access to the SSE file on OPS-GB-Public drive,17/05/2022 14:21,FALSE,,Not Yet Requested,,,Accenture EUS,115200,R&D / opc center,3 - Low
+GBBA01,INC0266842,Jason Brett,King,yibchu idocs,17/05/2022 14:41,FALSE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+GBBA01,INC0266869,Mohyadin,Abdullahi,unable to access playstore in mobile -access not allowed ,17/05/2022 16:49,FALSE,,Not Yet Requested,,,,321702,R&D / opc center,3 - Low
+GBBA01,INC0266882,Nathan,Freeman,Unable to open excel files ,17/05/2022 17:33,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+undefined,INC0266890,Josephine,Knight,We have 14 SKUs extended to L143 where the profit centre is incorrect and must be updated,17/05/2022 18:22,FALSE,,Not Yet Requested,,,Accenture AMS,200232,R&D / opc center,3 - Low
+GBBA01,INC0266944,Judith,Gregory,Active Directory – Password Reset/Account Unlock,18/05/2022 04:47,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0266978,Jamie,McGowan,"My phone is saying the IT department has blocked my emails and phone ios that slow, outlook app wont run on it.",18/05/2022 09:53,FALSE,,Not Yet Requested,,,Accenture EUS,57600,R&D / opc center,3 - Low
+GBBA01,INC0266997,Eleanor,Godwin,Remove the current multi-factor authentication configuration for my account,18/05/2022 11:06,FALSE,,Not Yet Requested,,,Accenture EUS L2,0,R&D / opc center,3 - Low
+GBBA01,INC0267000,Josephine,Knight,Being spammed by RITM0276271,18/05/2022 11:11,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0267019,Paul,Junor,Missing emails,18/05/2022 12:40,FALSE,,Not Yet Requested,,,Accenture EUS,91457,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0267021,Burcu,Lafci, User came on chat to report her mail is not synced ,18/05/2022 12:54,FALSE,,Not Yet Requested,,,Accenture EUS L2,0,R&D / opc center,3 - Low
+GBHU01,INC0267034,Rahul,Vora,user cannot access outlook emails,18/05/2022 13:38,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0267061,Jason Brett,King,"computer locker out, need Bit locker code number",18/05/2022 15:53,FALSE,,Not Yet Requested,,,Accenture EUS,28800,R&D / opc center,3 - Low
+GBHU01,INC0267074,Kamran,Ahmed,[TAS] [UK] [RTL] [AC] Invoiced Order not accrued in TAS,18/05/2022 16:30,FALSE,,Not Yet Requested,,,Accenture AMS,115200,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0267094,Richard,Stretton,E-Mail Access Blocked,18/05/2022 18:03,FALSE,,Not Yet Requested,,,Accenture EUS,28578,R&D / opc center,3 - Low
+IEDU01,INC0267098,Sorcha,Meagher,I am getting a notification to say that I don't have enough storage space on my computer to open an excel file. i have attached an image of the error message.,18/05/2022 18:24,FALSE,,Not Yet Requested,,,Accenture EUS L2,113706,Dublin  Country Office,3 - Low
+GBBA01,INC0267180,Holly,Hughes,Get error message when trying to log into SAP (see attached screenshot).  Am using SAP version 7.7.,19/05/2022 10:12,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+undefined,INC0267236,Kristina,Baer,[CoffeeCare] Engage to Coffee Care integration,19/05/2022 13:55,FALSE,,Not Yet Requested,,,Accenture AMS,86400,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0267299,Andrew,Riley,Bitlocker pin reset,19/05/2022 20:07,FALSE,,Not Yet Requested,,,Accenture EUS,716,R&D / opc center,3 - Low
+GBBA01,INC0267361,Maxine,White,My SAP keeps disconnecting when I'm using it & then I can't log back in without doing a shut down & restart - it happens at least 4 times a day. I've attached a screenshot of the message,20/05/2022 11:24,FALSE,,Not Yet Requested,,,Accenture EUS,1877,R&D / opc center,3 - Low
+GBHU01,INC0267386,Eddie,Smith,Active Directory - Password Reset ,20/05/2022 14:35,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0267401,OBS,JDEincident,PXE troubleshooting | Network team to guide us collect logs post monitor session configuration on the ,20/05/2022 16:15,FALSE,,Not Yet Requested,,,OBS,86400,R&D / opc center,3 - Low
+GBHU01,INC0267421,Christopher,Evans,Bitlocker - Recovey Key - Unable to login,20/05/2022 18:22,FALSE,,Not Yet Requested,,,Accenture EUS,503,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0267424,Nathanael,Sinclair,I am unable to access the shared drives,20/05/2022 18:44,FALSE,,Not Yet Requested,,,Accenture EUS,26143,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0267462,Balginder,Mann,CTC_CORP Outage in Banbury Office,22/05/2022 09:19,FALSE,,Not Yet Requested,,,Accenture EUS L2,144000,R&D / opc center,3 - Low
+THBA01,INC0267625,Matt,Hopkins,Re-activate user,23/05/2022 16:11,FALSE,,Not Yet Requested,,,,86400,R&D / opc center,3 - Low
+GBHU01,INC0267638,Jennifer,Crust,Active Directory – Password Reset/Account Unlock,23/05/2022 16:58,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0267668,Fredrick,Chademunhu,Xtel 2023 conditions have not copied the 2022 PPR and List price values . Please assign to Kantar,23/05/2022 20:15,FALSE,,Not Yet Requested,,,3PV,193485,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0267744,Maxine,White,My SAP still keeps closing down in the middle of using - This is a recurring issue that was supposed to be fixed last week - see error message for details,24/05/2022 12:25,FALSE,,Not Yet Requested,,,Accenture EUS,32681,R&D / opc center,3 - Low
+GBBA01,INC0267820,Ruth,Turner,One Drive Not Working,24/05/2022 17:26,FALSE,,Not Yet Requested,,,Accenture EUS,32597,R&D / opc center,3 - Low
+GBBA01,INC0267994,Andrew,Tobin,Issue with disk space on R&D drive,25/05/2022 09:57,FALSE,,Not Yet Requested,,,Accenture EUS,29057,R&D / opc center,3 - Low
+GBBA01,INC0267891,Greig,Brown,"I need to raise a ticket to request access to the microsoft team in the attachment, the team owner told me this.",25/05/2022 09:58,FALSE,,Not Yet Requested,,,Accenture AMS,115200,R&D / opc center,3 - Low
+GBHU01,INC0267904,David,Walker,Laptop not always starting up .  Seems to be an intermitant problem .  Can you raise a ticket for Banbury IT dept to inspect next Tues/Wed when im in Banbury,25/05/2022 11:07,FALSE,,Not Yet Requested,,,Global Service Desk,115200,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0267922,Steve,Plumbe,Error on Server Disk - Server Name DEMBBABHVH870,25/05/2022 12:49,FALSE,,Not Yet Requested,,,Accenture EUS L2,86400,R&D / opc center,3 - Low
+IEDU01,INC0267940,Jennifer,Good,Unable to access N-Drive,25/05/2022 13:53,FALSE,,Not Yet Requested,,,Accenture EUS,0,Dublin  Country Office,3 - Low
+GBHU01,INC0267981,Lynn,Evans,Wifi not working,25/05/2022 19:07,FALSE,,Not Yet Requested,,,Accenture EUS,426,Maidenhead Cluster HQ,3 - Low
+,INC0267983,Steve,Plumbe,Speed issues in GBBA01 Backup vEdge & MPLS,25/05/2022 19:31,FALSE,,Not Yet Requested,,,OBS,52132,R&D / opc center,3 - Low
+GBBA01,INC0268035,Steve,Plumbe,Black Lines Coming Out On Prints,26/05/2022 10:12,TRUE,,Not Yet Requested,,,HPI,0,R&D / opc center,3 - Low
+GBBA01,INC0268037,Josephine,Knight,OTC - Send file to 4pl pop ups - please assign to OTC AMS team,26/05/2022 10:39,FALSE,,Not Yet Requested,,,Accenture AMS,547200,R&D / opc center,3 - Low
+GBBA01,INC0268040,Josephine,Knight,Market place Idoc in error - ship to missing,26/05/2022 10:50,FALSE,,Not Yet Requested,,,Accenture AMS,460800,R&D / opc center,3 - Low
+GBBA01,INC0268047,Denise,Tooke,Always On VPN Not Working,26/05/2022 12:01,FALSE,,Not Yet Requested,,,Accenture EUS,57600,R&D / opc center,3 - Low
+GBBA01,INC0268048,Maxine,White,I need to reset my SAP password so that I can access TAS but I'm also unaware of what my current SAP password is a I was auto logged on the first time,26/05/2022 12:43,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0268138,Jason Brett,King,yibchu idocs,27/05/2022 09:39,FALSE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+GBBA01,INC0268173,Hakki,Ozsalih,Don't have edit & save access to local folder,27/05/2022 13:32,FALSE,,Not Yet Requested,,,Accenture EUS,172800,R&D / opc center,3 - Low
+GBHU01,INC0268267,Emma,Wilson,I have a new phone and need the QR code to set up my Microsoft Authenticator app on my new phone,27/05/2022 14:56,FALSE,,Not Yet Requested,,,Accenture EUS L2,43769,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0268287,Bethany,Crook,[OBWDA] [D&A-BPC-BATCH-XXX-UA] Unable to submit data to EPM- BPC,27/05/2022 17:24,FALSE,,Not Yet Requested,,,Just-Bi ,144000,R&D / opc center,3 - Low
+GBBA01,INC0268309,Wesley,Furey,Cannot load microsoft teams onto work mobile phone,28/05/2022 12:26,FALSE,,Not Yet Requested,,,Accenture EUS,259200,R&D / opc center,3 - Low
+GBBA01,INC0268357,Jason Brett,King,idocs,30/05/2022 08:04,FALSE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+GBBA01,INC0268384,Harriet,Prescott,outlook closes when I click 'reply' on email,30/05/2022 09:52,FALSE,,Not Yet Requested,,,,460800,R&D / opc center,3 - Low
+GBHU01,INC0268442,Laure,Rouaux,outlook closing everytime i want to reply or forward an email. same for the invite. i cannot really work with outlook today,30/05/2022 11:38,FALSE,,Not Yet Requested,,,,604800,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0268454,Catie,Newson,Everytime i try to reply to an email or start a new email my outlook and teams s,30/05/2022 11:58,FALSE,,Not Yet Requested,,,,604800,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0268617,Zoran,Borisov,ZPI Zoran Borisov JDE account isuues,30/05/2022 13:40,FALSE,,Not Yet Requested,,,Accenture EUS,201600,R&D / opc center,3 - Low
+GBBA01,INC0268523,Maxine,White,SAP keeps closing down while i'm working in it - this has been a repeat issue that IT have resolved in the last week  - its now happening again. See attached screen print for details of error message,30/05/2022 15:39,FALSE,,Not Yet Requested,,,Accenture EUS,118285,R&D / opc center,3 - Low
+GBBA01,INC0268525,Maxine,White,my access in TAS needs to be amended as I currently can't see the correct screens for my role. the TAS add on needs to be run so the screen works properly as currently the boxes are greyed out,30/05/2022 15:49,FALSE,,Not Yet Requested,,,Accenture EUS,144000,R&D / opc center,3 - Low
+GBHU01,INC0268527,Cathie,Chapman,"user informed when she connect to teams call it says -""Couldn't find a microphon",30/05/2022 16:12,FALSE,,Not Yet Requested,,,Accenture EUS,28800,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0268534,Sukhman,Sangha,[TAS] [UK] [RTL] [UI] TAS View is reduced/not showcasing all options visibly,30/05/2022 16:26,FALSE,,Not Yet Requested,,,Accenture AMS,57600,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0268563,Rob,Williams,User Outlook is crashing when trying to reply back to the emails,30/05/2022 18:46,FALSE,,Not Yet Requested,,,,458036,R&D / opc center,3 - Low
+GBBA01,INC0268593,Miles,Gomme,Bitlocker Recovery Key ,30/05/2022 21:16,FALSE,,Not Yet Requested,,,Accenture EUS,242,R&D / opc center,3 - Low
+GBHU01,INC0268598,Vincent,New,Outlook disappearing while giving reply mail,30/05/2022 21:54,FALSE,,Not Yet Requested,,,Accenture EUS,290,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0268611,Anna,Power,Unable to open any reports in BPC,30/05/2022 22:57,FALSE,,Not Yet Requested,,,Accenture EUS,500,R&D / opc center,3 - Low
+GBBA01,INC0268651,Jason Brett,King,IDOCS,31/05/2022 08:56,FALSE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+GBBA01,INC0268710,Dyfrig,Davies,Microsoft Outlook application is shutting down every time that I attempt to reply to an email or open certain meeting occurrences in my calendar,31/05/2022 11:42,FALSE,,Not Yet Requested,,,Accenture EUS,144000,R&D / opc center,3 - Low
+undefined,INC0268719,Kristina,Baer,[CoffeeCare] Engage to Pega process not working,31/05/2022 12:14,FALSE,,Not Yet Requested,,,Accenture AMS,57600,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0268777,Nadiya,Soshenko,Sales Force Case 01716971,31/05/2022 15:11,FALSE,,Not Yet Requested,,,Accenture AMS,57600,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0268784,Weronika,Romowska,unable to create transfer order for outbound order,31/05/2022 15:38,FALSE,,Not Yet Requested,,,Accenture AMS,172800,R&D / opc center,3 - Low
+GBBA01,INC0268802,Joshua,Hagen,"Outlook closing every time i try to send a new mail, or reply to a mail.",31/05/2022 16:43,FALSE,,Not Yet Requested,,,Accenture EUS,28,R&D / opc center,3 - Low
+GBBA01,INC0268806,Steve,Plumbe,Wireless Access Point CTC-GBBA01-WAP077 Discovered as Being Offline (now working ok again after re-boot),31/05/2022 16:50,FALSE,,Not Yet Requested,,,OBS,403200,R&D / opc center,3 - Low
+GBHU01,INC0268905,Laure,Rouaux,outlook not working,01/06/2022 10:15,FALSE,,Not Yet Requested,,,Accenture EUS,86400,Maidenhead Cluster HQ,3 - Low
+IEDU01,INC0268915,Kristina,Candon,"Hello, my Microsoft Excel keeps crashing. Sometimes files that were saved are deleted. Whenever Excel is working for me, functions such as v-lookups do not work unless I re-start my computer.  Thanks.",01/06/2022 10:52,FALSE,,Not Yet Requested,,,Accenture EUS,172800,Dublin  Country Office,3 - Low
+GBHU01,INC0268939,Nadiya,Soshenko,DevOps Analytics Professional-Sales KPI Dashboard - # Events per Week,01/06/2022 12:49,TRUE,,Not Yet Requested,,,Accenture AMS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0268966,Jethro,Cooke,OUtlook nott responding correctly,01/06/2022 15:03,FALSE,,Not Yet Requested,,,Accenture EUS,9636,R&D / opc center,3 - Low
+GBHU01,INC0269015,Catie,Newson,Outlook Crashing ,01/06/2022 18:52,FALSE,,Not Yet Requested,,,Accenture EUS,317,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0269027,Steve,Plumbe,Bitlocker - Recovey Key - Unable to login,01/06/2022 19:25,FALSE,,Not Yet Requested,,,Accenture EUS,448,R&D / opc center,3 - Low
+GBBA01,INC0269058,Steve,Plumbe,Lisa Kyriacou - Windows Password Reset is required,01/06/2022 22:06,FALSE,,Not Yet Requested,,,Accenture EUS,8426,Maidenhead Cluster HQ,3 - Low
+IEDU01,INC0269051,Sorcha,Meagher,When I turn on my computer and enter my Bitcode a blue screen with a sad face appears with an error message and then it automatically restarts my computer.,01/06/2022 22:47,FALSE,,Not Yet Requested,,,Global Service Desk,184366,Dublin  Country Office,3 - Low
+GBBA01,INC0269228,Orion,Phillips,Password reset ,03/06/2022 02:03,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0269377,Gary,al Williams,Berchi 1800 Berchi 800 and The 1000.  Alarm systems for all these machines are due a severe upgrade. The present alarms are faulty and misleading.,05/06/2022 00:51,FALSE,,Not Yet Requested,,,Accenture EUS,230400,R&D / opc center,3 - Low
+GBBA01,INC0269383,Paul Robert,Thomas,Orders missing on SAP ,06/06/2022 00:33,FALSE,,Not Yet Requested,,,Accenture AMS,57600,R&D / opc center,3 - Low
+GBBA01,INC0269421,Paul,Harpley,user informed windows10 upgrade failed,06/06/2022 11:29,FALSE,,Not Yet Requested,,,Accenture EUS L2,0,R&D / opc center,3 - Low
+GBHU01,INC0269460,Edward,Devonshire,User informed SAP is not setup correctly,06/06/2022 15:24,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0269462,Edward,Devonshire,User unable to install Google chrome ,06/06/2022 15:32,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0269498,Steve,Plumbe,Lines Printing Out On Pages,06/06/2022 18:19,TRUE,,Not Yet Requested,,,HPI,0,R&D / opc center,3 - Low
+GBBA01,INC0269502,Hayley,Meadows,windows needs to be updated ,06/06/2022 19:27,FALSE,,Not Yet Requested,,,Accenture EUS L2,23530,R&D / opc center,3 - Low
+GBBA01,INC0269581,Joshua,Hagen,Work Mobile phone screen has stopped working - just getting a blank screen.,07/06/2022 10:38,FALSE,,Not Yet Requested,,,Global Service Desk,28800,R&D / opc center,3 - Low
+GBBA01,INC0269582,Tobi,Akinyemi,Bitlocker - Recovey Key - Unable to login,07/06/2022 10:41,FALSE,,Not Yet Requested,,,Accenture EUS,2366,R&D / opc center,3 - Low
+GBBA01,INC0269583,Petra,Phillips,PLEASE CAN YOU ACTIVATE MY MOBILE HOTSPOT,07/06/2022 10:43,FALSE,,Not Yet Requested,,,Accenture EUS,35127,R&D / opc center,3 - Low
+IEDU01,INC0269585,Sorcha,Meagher,Multiple Issues with Laptop,07/06/2022 10:51,FALSE,,Not Yet Requested,,,Accenture EUS,149652,Dublin  Country Office,3 - Low
+GBBA01,INC0269617,Estelle,Milner,User could not get through MFA in new Mobile phone,07/06/2022 12:17,FALSE,,Not Yet Requested,,,Accenture EUS L2,0,R&D / opc center,3 - Low
+undefined,INC0269673,Nazmul,Miah,[OBWDA] [D&A-AFO-BATCH-XXX-UA] Analysis for office not working,07/06/2022 16:11,FALSE,,Not Yet Requested,,,Just-Bi ,28800,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0269698,Leeann,Harpley,[OBWDA] [D&A-AFO-BATCH-XXX-SH] - INC0269698 - SAP BW Error ,07/06/2022 19:11,FALSE,,Not Yet Requested,,,Just-Bi ,197292,R&D / opc center,3 - Low
+GBHU01,INC0269774,Alec,Mellor,[Intranet][GB] cant access procurement portal,08/06/2022 10:55,FALSE,,Not Yet Requested,,,Accenture AMS,57600,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0269898,Ashley,Tahapehi,Mobile Phone setup ,08/06/2022 11:46,FALSE,,Not Yet Requested,,,Accenture EUS L2,28800,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0269794,Ashley,Tahapehi,Issue accessing Concur for the first time,08/06/2022 12:02,FALSE,,Not Yet Requested,,,3PV,8001,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0269818,Odette,Oosthuizen,My laptop is very temperamental in charging.,08/06/2022 13:52,FALSE,,Not Yet Requested,,,Accenture EUS,57600,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0269870,Edward,Devonshire,"Issues with getting my headset to work properly, sometimes it allows me to speak but I can't hear someone etc.",08/06/2022 17:31,FALSE,,Not Yet Requested,,,Accenture EUS,147207,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0269871,Kathryn,Turner,Application unable to connect to server - Need OBS Intervention as per ATOS team,08/06/2022 17:38,FALSE,,Not Yet Requested,,,OBS,28800,R&D / opc center,3 - Low
+GBHU01,INC0269886,Lisa,Kyriacou,Bitlocker Recovery Key,08/06/2022 20:40,FALSE,,Not Yet Requested,,,Accenture EUS,256,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0269894,Lisa,Kyriacou,Bit Locker Recovery key required,08/06/2022 21:36,FALSE,,Not Yet Requested,,,Accenture EUS,928,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0269897,Ashley,Tahapehi,After updating Laptop it gives an error Code when opening diff program,08/06/2022 22:02,FALSE,,Not Yet Requested,,,Accenture EUS,43080,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0269999,Steve,Plumbe,Outlook Calendar Meetings Not Appearing on any Evoko Units/Panels in the UK,09/06/2022 15:34,FALSE,,Not Yet Requested,,,Accenture EUS L2,71190,R&D / opc center,3 - Low
+GBBA01,INC0270008,Christine,Wallam,Logging onto TAS in Edge,09/06/2022 16:51,FALSE,,Not Yet Requested,,,Accenture EUS,86400,R&D / opc center,3 - Low
+GBHU01,INC0270026,Madalin,Bechianu,Ao Vpn Installation ,09/06/2022 19:19,FALSE,,Not Yet Requested,,,Accenture EUS,234,Maidenhead Cluster HQ,3 - Low
+IEDU01,INC0270031,Kristina,Candon,I cannot connect to my VPN  and as a result I cannot access the drives,09/06/2022 19:54,FALSE,,Not Yet Requested,,,Accenture EUS,913,Dublin  Country Office,3 - Low
+GBBA01,INC0270153,Richard,Zuurbier,cant open one drive,10/06/2022 08:22,FALSE,,Not Yet Requested,,,Accenture EUS,115200,R&D / opc center,3 - Low
+GBBA01,INC0270145,Matthew,Davies,Bitlocker Recovery Key - E1F307A2,10/06/2022 19:05,FALSE,,Not Yet Requested,,,Accenture EUS,627,R&D / opc center,3 - Low
+undefined,INC0270186,Jason Brett,King,YIBCHU IDocs,13/06/2022 08:37,FALSE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+IEDU01,INC0270200,Marcin,Galuszka,Required New USB stick with the latest image on it - Please assign directly to our engineer in Dublin.,13/06/2022 10:36,TRUE,,Not Yet Requested,,,Accenture EUS,374400,Dublin  Country Office,3 - Low
+GBBA01,INC0270212,Joshua,Hagen,"Unable to set up new replacement phone, due to he authenticator app being on my old broken phone.",13/06/2022 11:35,FALSE,,Not Yet Requested,,,Accenture EUS,57600,R&D / opc center,3 - Low
+GBHU01,INC0270222,Andrew,Lane,The fan on my laptop is constantly running whether it is in or out of the docking station. Then the laptop without warning shuts down.,13/06/2022 12:40,FALSE,,Not Yet Requested,,,Global Service Desk,57600,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0270271,Adam,Argyle,SAP and Shared Drives not working,13/06/2022 16:13,FALSE,,Not Yet Requested,,,Accenture EUS,28800,R&D / opc center,3 - Low
+GBBA01,INC0270288,Gosia,Tanikowska,Kantar Retail Xtel - system down,13/06/2022 17:09,FALSE,,Not Yet Requested,,,Accenture EUS,2623,R&D / opc center,3 - Low
+GBHU01,INC0270308,Jon,Marshall,user can't access N drive ,13/06/2022 17:49,FALSE,,Not Yet Requested,,,,172800,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0270320,Jenni,Nicholson,User could not connect to SAP because of AO VPN connection issue,13/06/2022 18:27,FALSE,,Not Yet Requested,,,Accenture EUS,715,R&D / opc center,3 - Low
+GBBA01,INC0270346,Leanne,Pocock,Password reset for kenneth.bradford@jdecoffee.com,13/06/2022 21:41,FALSE,,Not Yet Requested,,,Accenture EUS,1087,R&D / opc center,3 - Low
+GBHU01,INC0270369,Madalin,Bechianu,I wonder if you can help me with edit access as I am not able to edit and save my work in any of Dionne's file from O drive ? Thank you O:\Sales\IC & Discounters\VCR 2022\ACCOUNTS\ICELAND\CONTACT REPO,14/06/2022 09:09,FALSE,,Not Yet Requested,,,Accenture EUS,57600,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0270375,Kevin,Heeley,"Xtel GUI issues still not completely fixed. No scroll bars on side of bottom to be able to navigate makes it impossible to use. Once Xtel is open, this can just appear at any point",14/06/2022 09:59,FALSE,,Not Yet Requested,,,3PV,28800,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0270411,Charlotte,Oakes,Unable to access L&D cafe link,14/06/2022 12:03,TRUE,,Not Yet Requested,,,NSA,0,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0270414,Amber,McGuigan,Hurley Office Desks 14-16 electric sockets do not work,14/06/2022 12:16,FALSE,,Not Yet Requested,,,Accenture EUS,35012,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0270423,Nadiya,Soshenko,Failed Upload of SAP Analysis for Office,14/06/2022 12:38,FALSE,,Not Yet Requested,,,Accenture EUS,3824,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0270455,Richard,Eldridge,User reported Bitlocker issue ,14/06/2022 14:45,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0270465,Edward,Devonshire,Unable to download  EPM add in on software center,14/06/2022 15:24,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+NLUT01,INC0270479,Baswatimayee,Sahn,Ticket for network team,14/06/2022 16:04,FALSE,,Not Yet Requested,,,OBS,115200,R&D / opc center,3 - Low
+GBBA01,INC0270483,Louise,Shawyer,Teams keeps freezing which then freezes all of my other applications,14/06/2022 16:22,FALSE,,Not Yet Requested,,,Accenture EUS,119138,R&D / opc center,3 - Low
+GBBA01,INC0270489,Liam,Campbell, BitLocker recovery key required,14/06/2022 16:32,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0270506,Alice,Atkinson,Unable to process test order In Salesforce QAS,14/06/2022 17:44,FALSE,,Not Yet Requested,,,Accenture AMS,28800,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0270534,Liam,Campbell,Bitlocker pin setup for richard.eldridge@jdecoffee.com,15/06/2022 00:16,FALSE,,Not Yet Requested,,,Accenture EUS,211,R&D / opc center,3 - Low
+GBBA01,INC0270541,Sam,Robinson,AD Password Reset,15/06/2022 02:58,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0270616,Chrissie,Haynes,cannot connect to AOVPN (WFH),15/06/2022 12:29,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+IEDU01,INC0270621,Andrew,Lane,Laptop Overheating,15/06/2022 13:11,FALSE,,Not Yet Requested,,,Global Service Desk,86400,Dublin  Country Office,3 - Low
+GBBA01,INC0270677,Jethro,Cooke, ras portal reset,15/06/2022 16:53,FALSE,,Not Yet Requested,,,Accenture EUS L2,28800,R&D / opc center,3 - Low
+GBBA01,INC0270691,Balginder,Mann,Bitlocker - Recovey Key - Unable to login,15/06/2022 18:10,FALSE,,Not Yet Requested,,,Accenture EUS,587,R&D / opc center,3 - Low
+GBBA01,INC0270706,Jenni,Nicholson,User reported SAP and share drive issue ,15/06/2022 19:36,FALSE,,Not Yet Requested,,,Accenture EUS,340,R&D / opc center,3 - Low
+GBBA01,INC0270707,Jenni,Nicholson, User reported  share drive issue ,15/06/2022 19:42,FALSE,,Not Yet Requested,,,Accenture EUS,459,R&D / opc center,3 - Low
+GBBA01,INC0270718,Sam,Robinson,Password reset for nicholas.kraus@jdecoffee.com,16/06/2022 00:59,FALSE,,Not Yet Requested,,,Accenture EUS,204,R&D / opc center,3 - Low
+GBBA01,INC0270745,Matthew,Starnes,Need assistance for PXE testing,16/06/2022 10:03,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0270816,Anna,Fardon,"User is able to receive emails , but issue while sending and sent emails ",16/06/2022 15:30,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0270849,Orion,Phillips,Active Directory – Password Reset/Account Unlock,16/06/2022 19:59,FALSE,,Not Yet Requested,,,Accenture EUS,230,R&D / opc center,3 - Low
+GBBA01,INC0270850,Orion,Phillips,Bitlocker - Recovey Key - Unable to login,16/06/2022 20:03,FALSE,,Not Yet Requested,,,Accenture EUS,181,R&D / opc center,3 - Low
+GBBA01,INC0270892,Michael,Clarke,DTC orders 2660172198 & 2660172245 have been pointed to L143 Great Bear Banbury instead L325 DHL Bicester. Orders can not be fulfilled from L143,17/06/2022 09:35,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0270929,Ashley,Tahapehi,"User stuck on Bitlocker page , laptop is laggy , bitlocker page not proceeding , ",17/06/2022 12:35,FALSE,,Not Yet Requested,,,Global Service Desk,57600,Maidenhead Cluster HQ,3 - Low
+undefined,INC0270938,Weronika,Romowska,YIBCHU iDOCs stuck on spool 227933,17/06/2022 14:02,FALSE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+GBBA01,INC0270948,Thomas,Robertson,"User does not exist on SAP system, all HR process's have been completed",17/06/2022 15:41,FALSE,,Not Yet Requested,,,Accenture EUS,34972,R&D / opc center,3 - Low
+GBBA01,INC0270971,UKGAT1F,ukgat1f,User printer is not working,17/06/2022 20:21,FALSE,,Not Yet Requested,,,Accenture EUS,1659,R&D / opc center,3 - Low
+IEDU01,INC0270973,Connor,OBrien,INC0270973 - User is trying to connect to SAP analytics Cloud/ BI but not sure how to do it,17/06/2022 22:49,TRUE,,Not Yet Requested,,,Just-Bi ,328225,Dublin  Country Office,3 - Low
+GBHU01,INC0271185,Jomari,Carreon,DPA App,20/06/2022 10:46,FALSE,,Not Yet Requested,,,Accenture AMS,28800,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0271062,Rob,Halcrow,Raising this issue for another user. They cannot log onto the SAP system,20/06/2022 11:59,FALSE,,Not Yet Requested,,,Accenture EUS,3652,R&D / opc center,3 - Low
+GBBA01,INC0271106,Khadija,Torkhani,MS teams missing on PC,20/06/2022 14:39,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0271105,Marlena,Mezykowska,"Problem with logging to LIMS , pls see prt screen",20/06/2022 14:42,FALSE,,Not Yet Requested,,,Accenture EUS,57600,R&D / opc center,3 - Low
+GBBA01,INC0271110,Danielle,Halkett,remote laptop wont load windows menu,20/06/2022 14:54,FALSE,,Not Yet Requested,,,Accenture EUS L2,115200,R&D / opc center,3 - Low
+GBBA01,INC0271122,Andrew,Tobin,[Intranet][GB] Share point site link is broken and not able to gain or provide access or edit workbook,20/06/2022 15:12,FALSE,,Not Yet Requested,,,Accenture AMS,57600,R&D / opc center,3 - Low
+undefined,INC0271126,Josephine,Knight,We have a shipping confirmation IDoc in error (966884211) for an intercompany delivery 2441468118 - Picked quantity is larger than the quantity to be delivered,20/06/2022 15:19,FALSE,,Not Yet Requested,,,Accenture AMS,57600,R&D / opc center,3 - Low
+GBBA01,INC0271130,Khadija,Torkhani,issues with  copy and paste in Excel,20/06/2022 15:45,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0271142,Madalin,Bechianu,Please I cannot log in Xtel and I'm not connected to Always on VPN,20/06/2022 16:38,TRUE,,Not Yet Requested,,,Accenture EUS,177187,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0271151,Rob,Halcrow,ADP account locked,20/06/2022 16:55,FALSE,,Not Yet Requested,,,Accenture EUS,28800,R&D / opc center,3 - Low
+GBBA01,INC0271254,Rob,Halcrow,Account needs reactivating for Thomas Glover,21/06/2022 11:06,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0271267,Lawrence,Jones,cannot access lawrence.jones@bp.com,21/06/2022 12:42,FALSE,,Not Yet Requested,,,Accenture EUS,28800,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0271400,Elaine,Garrett,UNABLE TO ATTACH REMITS FROM DESKTOP TO CLEARING DOC IN  SAP (TRANSACTION FBO3),22/06/2022 09:40,FALSE,,Not Yet Requested,,,ATOS,59225,R&D / opc center,3 - Low
+GBBA01,INC0271402,Christine,Wallam,Cannot see the breakdown when l go into any invoices on SAP,22/06/2022 09:45,FALSE,,Not Yet Requested,,,ATOS,59211,R&D / opc center,3 - Low
+GBBA01,INC0271409,Petra,Phillips,URGENT SAP ISSUE NOTHING BILLED ON 21ST HAS OUTPUTS ON SAP & NOTHING HAS BEEN SENT DOWN EDI,22/06/2022 10:09,FALSE,,Not Yet Requested,,,ATOS,57600,R&D / opc center,3 - Low
+GBBA01,INC0271461,Kathryn,Turner,RDS enablement required for a new Desktop which has been setup in the factory,22/06/2022 12:10,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0271463,Maxine,White,I'm unable to create attachments against documents on customer sales ledger transactions - FBL5N,22/06/2022 12:24,FALSE,,Not Yet Requested,,,ATOS,28800,R&D / opc center,3 - Low
+GBHU01,INC0271497,Donna,Stead,"Sound bar icon always showing on left hand side of screen, will not disappear also wont  reduce volume also wont let me pass from screen to screen using bottom of the screen tool bar,",22/06/2022 13:33,FALSE,,Not Yet Requested,,,Accenture EUS,734,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0271574,Olly,Kerr,Xtel login trouble.,22/06/2022 17:24,FALSE,,Not Yet Requested,,,Accenture AMS,86400,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0271662,John,Mayor,Re-hire is not showing in the Active Directory,23/06/2022 08:17,TRUE,,Not Yet Requested,,,Accenture EUS L2,115200,R&D / opc center,3 - Low
+GBBA01,INC0271799,Paul,Clark,Unable to upgrade WInshuttle,23/06/2022 16:02,FALSE,,Not Yet Requested,,,Accenture EUS,28800,R&D / opc center,3 - Low
+GBHU01,INC0271828,Abul,Khan,[Intranet][GB] Need Access to UK procurement portal in order to create NDA document,23/06/2022 18:33,FALSE,,Not Yet Requested,,,Accenture AMS,55612,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0271831,Lawrence,Jones,Unable to access Intranet Portal ,23/06/2022 18:36,FALSE,,Not Yet Requested,,,Accenture EUS,641,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0271910,Paul,Clark,Receiving following error: Logon balancing error 88: Cannot connect with message server (rc=9)  Release 753  Component NI (network interface) version 40 Detail NiErrSet,24/06/2022 10:08,FALSE,,Not Yet Requested,,,Accenture EUS,540,R&D / opc center,3 - Low
+GBHU01,INC0271912,Andrew,Lane,laptop speaker not working,24/06/2022 10:16,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0271955,Daniel,Singer,Bitlocker - Recovey Key - Unable to login,24/06/2022 14:00,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0272022,Kathryn,Turner,need to provide a SAML file to vendor - unsure about proceeding,24/06/2022 16:38,TRUE,,Not Yet Requested,,,Accenture EUS,115200,R&D / opc center,3 - Low
+GBBA01,INC0272050,Ruby,Ramsamy,Restore and back up folder,24/06/2022 21:12,TRUE,,Not Yet Requested,,,Accenture EUS L2,103646,R&D / opc center,3 - Low
+GBBA01,INC0272097,Andrew,Riley,Bitlocker PIN is required to set ,26/06/2022 19:31,TRUE,,Not Yet Requested,,,Accenture EUS,144000,R&D / opc center,3 - Low
+GBBA01,INC0272127,Thomas,Robertson,No sap logon,27/06/2022 09:16,TRUE,,Not Yet Requested,,,Accenture EUS,32974,R&D / opc center,3 - Low
+GBBA01,INC0272148,Daniel,Singer,Bitlocker - Recovey Key - Unable to login,27/06/2022 10:29,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0272164,Matthew,Moore,User contacted for the installation of Excel 64 bit ,27/06/2022 11:40,FALSE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+undefined,INC0272163,Kelly,Jobson,[OBWDA] [D&A-AFO-AUTH-XXX-UA] Analysis for office is not working,27/06/2022 11:41,FALSE,,Not Yet Requested,,,Just-Bi ,0,R&D / opc center,3 - Low
+IEDU01,INC0272171,Kristina,Candon,Hi. My Xtel says that I am not authorized to use the application (see image attached). This is despite restarting my computer twice.,27/06/2022 12:14,TRUE,,Not Yet Requested,,,Accenture AMS,0,Dublin  Country Office,3 - Low
+GBBA01,INC0272205,Jason Brett,King,A colleague of mine cannot log onto their PC as they have forgotten their password,27/06/2022 14:36,FALSE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+IEDU01,INC0272210,Kristina,Candon,User could not access Shared drives,27/06/2022 14:58,FALSE,,Not Yet Requested,,,Accenture EUS,0,Dublin  Country Office,3 - Low
+GBHU01,INC0272228,Oana,Bogdan,"INC0272228 - Last year NOS number in EUR (PEG) is not correct in BLED for UK. Please assign to BLED team asap, as we need this fixed for month end.",27/06/2022 16:20,TRUE,,Not Yet Requested,,,Just-Bi ,144000,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0272240,Sophie,Hawthorn,Need bitlocker pin set up only,27/06/2022 17:52,FALSE,,Not Yet Requested,,,Accenture EUS,28,R&D / opc center,3 - Low
+GBHU01,INC0272352,Lynne,Baker,need help connecting to mobile hotspot,28/06/2022 09:54,TRUE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0272355,Andrew,Markham,Laptop will not turn on,28/06/2022 10:01,TRUE,,Not Yet Requested,,,Accenture EUS,28800,R&D / opc center,3 - Low
+GBHU01,INC0272371,Nadiya,Soshenko,Pricing in Sales Force Product 4061416 Agreement 00340349.51,28/06/2022 10:44,TRUE,,Not Yet Requested,,,Accenture AMS,14215,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0272401,Elliot,Winch,Multiple Issues With Laptop,28/06/2022 12:29,TRUE,,Not Yet Requested,,,Global Service Desk,86400,R&D / opc center,3 - Low
+GBBA01,INC0272493,Charlotte,Home,"User facing issue while setting up mobile , user getting error of blocked ",28/06/2022 19:46,TRUE,,Not Yet Requested,,,Accenture EUS L2,51190,R&D / opc center,3 - Low
+GBBA01,INC0272549,Jenni,Nicholson,"Unable to access SAP, Intranet & shared folder- AO VPN Is not accessible",29/06/2022 10:15,TRUE,,Not Yet Requested,,,Accenture EUS L2,0,R&D / opc center,3 - Low
+GBBA01,INC0272548,Matthew,Starnes,The Laptop Battery is swollen and not charging,29/06/2022 10:16,TRUE,,Not Yet Requested,,,Global Service Desk,57600,R&D / opc center,3 - Low
+GBHU01,INC0272565,Donna,Pink,message keeps popping up about 'snow web application metering' being blocked even though I have not tried to add anything,29/06/2022 11:33,TRUE,,Not Yet Requested,,,Accenture EUS L2,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0272579,John,Mayor,Re-hire Jordan Hiles-Brown not showing in the Active Directory,29/06/2022 12:27,TRUE,,Not Yet Requested,,,Accenture EUS,28800,R&D / opc center,3 - Low
+GBBA01,INC0272582,Helen,Prescott,I can't access the shared drive,29/06/2022 12:46,TRUE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0272586,Anindo,Banerjee,User is Set up on successfactors but does not exist on the SAP system,29/06/2022 13:38,TRUE,,Not Yet Requested,,,Accenture EUS,57600,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0272587,Alice,Atkinson,Printer in post room is not working,29/06/2022 13:44,TRUE,,Not Yet Requested,,,HPI,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0272624,Adam,Mee,[OBWDA] [D&A-AFO-SCP-DP-UA]I am still unable to run reports in excel using BW,29/06/2022 15:36,TRUE,,Not Yet Requested,,,Just-Bi ,57600,R&D / opc center,3 - Low
+GBBA01,INC0272674,Alan,Jose,user contacted for Analysis installation in machine ,29/06/2022 19:08,TRUE,,Not Yet Requested,,,Accenture EUS,57077,R&D / opc center,3 - Low
+GBBA01,INC0272753,Erika,Sicad,"Can't connect to monitor from laptop, USB port says there is a power surge.",30/06/2022 10:03,TRUE,,Not Yet Requested,,,Accenture EUS,28800,R&D / opc center,3 - Low
+GBBA01,INC0272768,Steve,Plumbe,Please Re-Activate Associate 'Helen.Hallett',30/06/2022 10:38,TRUE,,Not Yet Requested,,,Accenture AMS,28800,R&D / opc center,3 - Low
+undefined,INC0272775,Petra,Phillips,Petra is experiencing a problem when attempting to attach the XL Request Form.,30/06/2022 11:02,TRUE,,Not Yet Requested,,,Accenture EUS,57600,R&D / opc center,3 - Low
+GBBA01,INC0272798,Jason Brett,King,yibchu idocs,30/06/2022 12:11,TRUE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+undefined,INC0272799,Jason Brett,King,YIBCHU IDocs in error status,30/06/2022 12:13,TRUE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+GBHU01,INC0272803,Madalin,Bechianu,USA dates in Xtel,30/06/2022 12:30,TRUE,,Not Yet Requested,,,3PV,28800,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0272858,Madalin,Bechianu,pdf editor software,30/06/2022 18:20,TRUE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0272862,Maddie,Parsons,[Intranet][GB] Unable to change permission of a sharepoint site to share with external users,30/06/2022 19:05,TRUE,,Not Yet Requested,,,Accenture AMS,53699,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0272880,Lee,Worrall,Password reset for denis.ryan@jdecoffee.com,30/06/2022 22:26,TRUE,,Not Yet Requested,,,Accenture EUS,1882,R&D / opc center,3 - Low
+GBHU01,INC0273023,Matthew,Moore,user need help with EPM and SAP analysis.,01/07/2022 17:01,TRUE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBHU01,INC0273029,Andrew,Lane,add shared drive ,01/07/2022 17:44,TRUE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0273098,Lee,Worrall,Bitlocker Recoverry Key - B794594E,02/07/2022 22:05,TRUE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0273120,Balginder,Mann,Bitlocker Recovery Key - BC02D825,04/07/2022 02:55,TRUE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+undefined,INC0273134,Matt,Hopkins,[TAS] [UK] [PRF] [BJ] Interface timings - TAS <> BW Batch Jobs,04/07/2022 07:25,TRUE,,Not Yet Requested,,,Accenture AMS,0,R&D / opc center,3 - Low
+GBHU01,INC0273238,Oana,Bogdan,"Cannot access sharedrive 0144\DE_Retail\Finance Retail DE, even though email from IT says access was granted for read and write",04/07/2022 14:17,TRUE,,Not Yet Requested,,,Accenture EUS,2929,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0273257,Joanna,Riley,Bitlocker - Recovey Key - Unable to login,04/07/2022 15:27,TRUE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0273282,Anand,Sull,"trouble getting onto xtel through the program and throughedge,chrome& IE",04/07/2022 16:43,TRUE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0273280,Thomas,Robertson,access to SSE on N drive,04/07/2022 16:44,TRUE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBBA01,INC0273281,Lisa,Whyment,Lost folder in drive,04/07/2022 16:45,TRUE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0273327,William,Vincent,Reserve space error in Kantar Xtel,04/07/2022 20:07,TRUE,,Not Yet Requested,,,Accenture EUS,339,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0273386,Arshan,Shroff,I can not get access to SAP  when entering my employee number,05/07/2022 09:04,TRUE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+GBHU01,INC0273444,Princess,Engeham,"Xtel issue , not opening , continiously on loading page ",05/07/2022 12:08,TRUE,,Not Yet Requested,,,Accenture EUS,0,Maidenhead Cluster HQ,3 - Low
+GBBA01,INC0273448,Jordan,HilesBrown,unfindable in Outlook and teams,05/07/2022 12:19,TRUE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+,INC0273496,Gosia,Tanikowska,Would like to know why ALDI promotions remain at Customer Accepted status when they have on invoice conditions attached?,05/07/2022 15:12,TRUE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
+,INC0273497,Julianne,Hall,SAP timing query - APO,05/07/2022 15:15,TRUE,,Not Yet Requested,,,Accenture EUS,0,R&D / opc center,3 - Low
